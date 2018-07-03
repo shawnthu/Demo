@@ -1,2 +1,2 @@
 #Demo
-add & simple line
+add and simple line
